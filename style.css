@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black ;
+    border-radius: 20%;
+    margin: 3rem;
+}
+
+.box-Cointainer{
+    display: flex;
+    justify-content:  center;
+}
+
+.red{
+    background-color: red;;
+
+}
+
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.Flash{
+    background-color: white;
+}
